@@ -1,6 +1,6 @@
 ### Hi! my name is Eduardo.✌️ 
 
-### My social networks: 
+### 😎 My social networks: 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eoeducosta/)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
