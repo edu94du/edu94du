@@ -1,7 +1,5 @@
 ### Hi! my name is Eduardo.✌️ 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edu94du&theme=blue-green) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edu94du)](https://github.com/edu94du/github-readme-stats)
-
 ### 😎 My social networks: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eoeducosta/)
@@ -44,6 +42,7 @@
 
 ### 💻 My OS:
 
-![Linux Mint user](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Windows user](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android user](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edu94du&theme=blue-green) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edu94du)](https://github.com/edu94du/github-readme-stats)
