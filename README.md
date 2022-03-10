@@ -42,7 +42,7 @@
 
 ### 💻 My OS:
 
-![Windows user](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ububtu User](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android user](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edu94du&theme=blue-green) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edu94du)](https://github.com/edu94du/github-readme-stats)
