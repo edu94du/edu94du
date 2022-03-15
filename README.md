@@ -15,9 +15,8 @@
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -42,7 +41,7 @@
 
 ### 💻 My OS:
 
-![Ububtu User](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android user](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edu94du&theme=blue-green) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edu94du)](https://github.com/edu94du/github-readme-stats)
